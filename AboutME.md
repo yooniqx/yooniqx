@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yooniqx
-- 👀 I’m interested in coding and front-end designing!
+- ✨ I’m interested in coding and front-end designing!
 - 🌱 I’m currently learning various coding languages
 - 👀 I'm looking forward to share my websites with the world :)
 
