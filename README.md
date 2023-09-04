@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/yooniqx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yooniqx" height="30" width="40" /></a>
 <a href="https://instagram.com/strrwqbrry](https://instagram.com/strrwqbrry_?igshid=MzRlODBiNWFlZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strrwqbrry" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yooniqx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yooniqx" height="30" width="40" /></a>
+<a href="https://youtube.com/@yooniqx?si=fM3ijx5fZYIHhLCt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yooniqx" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.com/users/902448766102155315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/902448766102155315" height="30" width="40" /></a>
 </p>
 
