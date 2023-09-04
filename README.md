@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yooniqx" alt="yooniqx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yoonique" target="blank"><img src="https://img.shields.io/twitter/follow/yoonique?logo=twitter&style=for-the-badge" alt="yoonique" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yooniqx" target="blank"><img src="https://img.shields.io/twitter/follow/yooniqx?logo=twitter&style=for-the-badge" alt="yooniqx" /></a> </p>
 
 - 🔭 I’m currently working on [EXPLORE](https://github.com/yooniqx/EXPLORE.git)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yoonique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoonique" height="30" width="40" /></a>
+<a href="https://twitter.com/yooniqx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yooniqx" height="30" width="40" /></a>
 <a href="https://instagram.com/strrwqbrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strrwqbrry" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yooniqx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yooniqx" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.com/users/902448766102155315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/902448766102155315" height="30" width="40" /></a>
@@ -31,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yooniqx&show_icons=true&locale=en&layout=compact" alt="yooniqx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yooniqx&show_icons=true&locale=en" alt="yooniqx" /></p>
-
