@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debopriya Bose</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from somewhere in the world...</h3>
 <center>
 <img alt="coding" align="center" width="1000" src="https://camo.githubusercontent.com/3422dd10d90be0bf50803d4b633d09f88fd8c1c91366d984d2dd85b759aea4d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 </center>
