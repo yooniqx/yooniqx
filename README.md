@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/yooniqx" target="blank"><img src="https://img.shields.io/twitter/follow/yooniqx?logo=twitter&style=for-the-badge" alt="yooniqx" /></a> </p>
 
-- 🔭 I’m currently working on https://github.com/yooniqx/BLOGGING_WEBSITE.git
+- 🔭 I’m currently working on <a href= "https://github.com/yooniqx/BLOGGING_WEBSITE.git"> BLOGGING_WEBSITE </a>
 
 - 🌱 I’m currently learning **HTML, CSS, Java script, Python**
 
